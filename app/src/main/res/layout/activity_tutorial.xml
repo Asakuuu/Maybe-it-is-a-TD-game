@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/tutorialText"
+        android:layout_width="378dp"
+        android:layout_height="516dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="109dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="122dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="#424242"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="395dp"
+        android:layout_height="81dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="607dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="27dp"
+        android:text="點擊畫面以繼續"
+        android:textAlignment="center"
+        android:textColor="#DFDFDF"
+        android:textSize="20sp" />
+
+</RelativeLayout>

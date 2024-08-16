@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">夢境守衛戰</string>
+    <string name="start_game">開始遊戲</string>
+    <string name="exit_game">離開</string>
+    <string name="game_over">夢塔已損毀\n模擬結束</string>
+    <string name="back_main">返回主標題</string>
+    <string name="title_game">夢境守衛戰</string>
+    <string name="tutorial_step1">
+        見習守衛者您好\n
+        歡迎使用守衛模擬戰\n
+        \n
+        即將安排的是"夢境守衛戰"\n
+        以下進行模擬教學
+    </string>
+    <string name="tutorial_step2">
+        "夢境守衛戰模擬教學"\n
+        \n
+        1. 左上方的螺旋陣是怪物的生成點\n
+        怪物將沿著道路走向位於右下角的夢塔\n
+        請召喚獨角獸以抵禦怪物！\n
+        \n
+        2. 當怪物碰觸到夢塔3次後視為守護失敗\n
+        將會退出模擬
+    </string>
+    <string name="tutorial_step3">
+         "夢境守衛戰模擬教學"\n
+        \n
+        3. 獨角獸的召喚點為綠色格子\n
+        點擊兩次綠色格子便可成功召喚\n
+        但會消耗20片夢境碎片\n
+        若碎片不足則不可召喚\n
+        \n
+        4. 若想收回已召喚之獨角獸\n
+        可以再次雙擊該獨角獸\n
+        同時將返還10片夢境碎片
+    </string>
+    <string name="tutorial_step4">
+        "夢境守衛戰模擬教學"\n
+        \n
+        5. 當怪物死亡或是走到夢塔後\n
+        怪物都會有血量的升級\n
+        請見習者多加注意\n
+        \n
+        6. 一隻獨角獸的攻擊次數為20次\n
+        當獨角獸的攻擊次數歸零時\n
+        獨角獸將會消失 需要重新召喚\n
+        \n
+        \n
+        以上是夢境守衛戰模擬教學
+    </string>
+     <string name="tutorial_step5">
+        即將進入"夢境守衛戰"\n
+        \n
+        請不要讓怪物吞噬孩子的夢塔\n
+        請守護夢境吧！</string>
+</resources>
